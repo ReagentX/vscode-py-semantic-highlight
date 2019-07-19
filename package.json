@@ -24,6 +24,7 @@
 		"onLanguage:typescript",
 		"onLanguage:typescriptreact",
 		"onLanguage:jsx-tags",
+		"onLanguage:python",
 		"onCommand:typescript.reloadProjects",
 		"onCommand:javascript.reloadProjects",
 		"onCommand:typescript.selectTypeScriptVersion",
